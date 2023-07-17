@@ -1,2 +1,2 @@
-# DevSecOps_project
+# DevSecOps fundamentals
 DevSecOps end to end Java Project
